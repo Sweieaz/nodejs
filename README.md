@@ -14,4 +14,4 @@ Getting sum of odd numbers in array
 
 Getting sum of square of even numbers in array
 
-Running tests
+## Running tests
